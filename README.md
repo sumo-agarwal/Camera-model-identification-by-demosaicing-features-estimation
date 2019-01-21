@@ -1,1 +1,1 @@
-The above code is a demosaicing feature extractor for jpg images. These features can be fed to neaural networks for camera model classification. Please check "Accurate Detection of Demosaicing features" paper for the code.
+The above code is a demosaicing feature extractor for jpg images. These features can be fed to neural networks for camera model classification. Please check "Accurate Detection of Demosaicing features" paper for the code.
